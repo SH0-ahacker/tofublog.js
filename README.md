@@ -3,7 +3,7 @@ a spam-page for blogger/blogspot
 
 # How it works?
 1- read code_withComments.js or code_withoutComments.js
-<code>is recommended to noobs use code_withComments.js, use code_withoutComments.js to more lightfast</code><pre>/</pre><code> aplications</code><pre>/</pre><code>fast</code><pre>/</pre><code>shit devices</code>
+<code>is recommended to noobs use code_withComments.js, use code_withoutComments.js to more </br>lightfast</code><pre>  /</pre><code> aplications</code><pre>  /</pre><code>fast</code><pre>  /</pre><code>shit devices</code>
 </br>
 2- start with a little:
 <code>tofublogStart()</code>
